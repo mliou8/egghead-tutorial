@@ -6,5 +6,6 @@ var Route = Router.Route;
 
 module.exports = (
   <Route path="/" component={Main}>
+  
   </Route>
 )
