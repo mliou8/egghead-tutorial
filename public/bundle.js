@@ -24510,7 +24510,7 @@
 	    return {
 	      notes: [1, 2, 3],
 	      bio: {
-	        name: 'Michael Liou'
+	        name: 'Tyler Mcginnis'
 	      },
 	      repos: ['a', 'b', 'c']
 	    };
