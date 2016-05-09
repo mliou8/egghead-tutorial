@@ -25,6 +25,9 @@ var Profile = React.createClass({
   componentWillUnmount: function () {
     this.unbind('notes');
   },
+  handleAddNotes: function () {
+    //update firebase with the new notes
+  },
   render: function(){
     return (
       <div className="row">
